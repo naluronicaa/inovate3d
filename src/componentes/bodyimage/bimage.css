@@ -1,0 +1,25 @@
+.fundo {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.botaop {
+    background-color: rgb(82, 113, 255);
+    padding: 10px;
+    border-radius: 6px;
+    top: 50ch;
+    margin-left: 48%;
+    position: absolute;
+    border: none;
+    color: white;
+    font-family: 'K2D';
+    font-size: large;
+}
+
+
+
+.botaop:hover{
+    background-color: rgb(56, 78, 175);   
+    display: block; 
+}
